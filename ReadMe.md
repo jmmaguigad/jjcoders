@@ -1,7 +1,7 @@
 # JJCoders
 A simple tutorial site (activity for e-commerce subject), design was inspired by catswhocode and google. :D
 
-## Getting Started
+# Getting Started
 ## Why color blue?
 > Blue is a peaceful and calming color exuding stability and expertise. It is a common color used in corporate sites because of this. Blue can also symbolize trust and dependability.
 A cool shade can bring about the negative side of blue, symbolizing depression, coldness, and passiveness.
